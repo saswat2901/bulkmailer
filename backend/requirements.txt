@@ -1,0 +1,6 @@
+Django
+djangorestframework
+pandas
+openpyxl
+python-dotenv
+django-cors-headers
